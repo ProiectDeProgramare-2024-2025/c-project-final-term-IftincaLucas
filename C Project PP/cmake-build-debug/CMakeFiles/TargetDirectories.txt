@@ -1,0 +1,3 @@
+/Users/lucas/Desktop/Cod CLion/C Project PP/cmake-build-debug/CMakeFiles/C_Project_PP.dir
+/Users/lucas/Desktop/Cod CLion/C Project PP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucas/Desktop/Cod CLion/C Project PP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

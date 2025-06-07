@@ -1,0 +1,7 @@
+Lucas,21,Ioan,14
+Andrei,21,Ioan,2
+Lucas,21,Andrei,18
+Ioan,21,Andrei,20
+Ioan,21,Andrei,14
+Andrei,21,Ioan,14
+Lucas,21,Ioan,0
